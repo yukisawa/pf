@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "yukisawa-pf-proj"
+    "default": "yukisawa-pf-proj",
+    "stg": "yukisawa-pf-proj-stg",
+    "prd": "yukisawa-pf-proj"
   }
 }
